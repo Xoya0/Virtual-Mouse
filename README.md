@@ -27,8 +27,8 @@ This project implements a hand gesture recognition system that allows users to c
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/repositoryname.git
-   cd repositoryname
+   git clone https://github.com/Xoya0/Virtual-Mouse.git
+   cd virtual_mouse_controller
    ```
 
 2. **Create a virtual environment** (optional but recommended):
